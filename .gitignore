@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/DependencyInjectionExp/bin/Debug/net5.0
+/DependencyInjectionExp/obj/Debug/net5.0
+/DependencyInjectionExp/obj
+/DependencyInjectionExp/wwwroot
